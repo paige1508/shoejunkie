@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[News]]></title>
+  <link href="http://paige1508.github.io//github/atom.xml" rel="self"/>
+  <link href="http://paige1508.github.io//github/"/>
+  <updated>2013-06-28T22:26:25-04:00</updated>
+  <id>http://paige1508.github.io//github/</id>
+  <author>
+    <name><![CDATA[Shoe Junkie]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Carrie Underwood]]></title>
+    <link href="http://paige1508.github.io//github/blog/2013/06/28/carrie-underwood/"/>
+    <updated>2013-06-28T17:35:00-04:00</updated>
+    <id>http://paige1508.github.io//github/blog/2013/06/28/carrie-underwood</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p>  <p>
+  Carrie Underwood was seen wearing these shoes on the red carpet last month! They
+look stunning! Want a pair, we have them. </p>
+<img src="http://paige1508.github.io//github/assets/carrie.jpg" alt="Carrie Underwood" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Channing Tatum]]></title>
+    <link href="http://paige1508.github.io//github/blog/2012/12/12/channing-tatum.markdown/"/>
+    <updated>2012-12-12T12:35:00-05:00</updated>
+    <id>http://paige1508.github.io//github/blog/2012/12/12/channing-tatum.markdown</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p>  <p> Eyes spotted Channing Tatum wearing these shoes not that long ago. These are great
+  when you are going for the more dressy look. They are great for those fancy occasions!
+  Get yours today guys!</p>
+<img src="http://paige1508.github.io//github/assets/channing.jpg" alt="Channing Tatum" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Jason Aldean]]></title>
+    <link href="http://paige1508.github.io//github/blog/2011/03/23/jason-aldean.markdown/"/>
+    <updated>2011-03-23T17:35:00-04:00</updated>
+    <id>http://paige1508.github.io//github/blog/2011/03/23/jason-aldean.markdown</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p>  <p>Jason Aldean loves his boots and he makes them go with just about anything.
+  As you can see he is wearing them on the red carpet. Men, your in luck&hellip; we have them.
+  Get yours today!!! </p>
+<img src="http://paige1508.github.io//github/assets/Jason_Aldean.jpg" alt="Jason Aldean" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Amanda Seyfried]]></title>
+    <link href="http://paige1508.github.io//github/blog/2010/08/10/amanda-seyfried.markdown/"/>
+    <updated>2010-08-10T01:35:00-04:00</updated>
+    <id>http://paige1508.github.io//github/blog/2010/08/10/amanda-seyfried.markdown</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p>  <p> Amanda Seyfried always has the lovely shoes and doesn&rsquo;t she look great in anything?
+  These shoes are great for showing off that new outfit you just got. Get them while they
+  are hot! </p>
+<img src="http://paige1508.github.io//github/assets/amanda-seyfried.jpg" alt="Amanda Seyfried" /></p>
+]]></content>
+  </entry>
+  
+</feed>
